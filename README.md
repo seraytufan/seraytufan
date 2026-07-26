@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I am Seray.</h1>
 
 <p align="center">
-Computer Science @ TU Braunschweig · building at the intersection of <b>code</b> and <b>design</b>
+👩‍💻 CS student by major, psychology minor by curiosity, designer by instinct. I like building things that work and feel right.
 </p>
 
 <p align="center">
@@ -11,10 +11,6 @@ Computer Science @ TU Braunschweig · building at the intersection of <b>code</b
 </p>
 
 ---
-
-### 👩‍💻 A bit about me
-
-CS student by major, psychology minor by curiosity, designer by instinct. I like building things that work and feel right.
 
 ### 🧩 Some things I've built
 
