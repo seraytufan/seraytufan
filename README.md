@@ -10,7 +10,6 @@
 </a>
 </p>
 
----
 
 
 ### 🧩 Some things I've built
@@ -39,6 +38,3 @@ Fluent in **German, English & Turkish**.
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
 
----
-
-<p align="center"><i>Always up for building something new.</i></p>
