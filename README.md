@@ -14,10 +14,10 @@
 
 ### 🧩 Some things I've built
 
-- **Do The Thing** — a 2D game I built solo, from architecture to code to visuals (C++ & SFML)
-- **WithYou** — an accessibility & social-inclusion platform, built at HealthHack 2026 (placed 3rd)
-- **Carbon Removal data tool** — a system to analyse, verify and visualise CO₂ removal data, built at HackHPI 2026 with mentoring from Cula Technologies
-- **Cycle-aware movement app** — a gamified app for personalised, menstrual-cycle-based activity planning, built at HACK|BAY 2025 (ZOLLHOF Tech Incubator)
+- **Do The Thing**: a 2D game I built solo, from architecture to code to visuals (C++ & SFML)
+- **WithYou**: an accessibility & social-inclusion platform, built at HealthHack 2026 (placed 3rd)
+- **Carbon Removal data tool**: a system to analyse, verify and visualise CO₂ removal data, built at HackHPI 2026 with mentoring from Cula Technologies
+- **Cycle-aware movement app**: a gamified app for personalised, menstrual-cycle-based activity planning, built at HACK|BAY 2025 (ZOLLHOF Tech Incubator)
 
 Fluent in **German, English & Turkish**.
 
