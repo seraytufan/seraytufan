@@ -1,4 +1,4 @@
-<h1 align="center">Seray Tufan</h1>
+<h1 align="center">Hi! I am Seray.</h1>
 
 <p align="center">
 Computer Science @ TU Braunschweig · building at the intersection of <b>code</b> and <b>design</b>
