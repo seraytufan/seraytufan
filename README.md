@@ -1,16 +1,20 @@
-<h1 align="center">Hi! I am Seray.</h1>
+<h1 align="center">Seray Tufan</h1>
 
 <p align="center">
-👩‍💻 CS student by major, psychology minor by curiosity, designer by instinct. I like building things that work and feel right.
+Computer Science @ TU Braunschweig · building at the intersection of <b>code</b> and <b>design</b>
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/seray-tufan">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </p>
 
 ---
+
+### 👩‍💻 A bit about me
+
+I studied Computer Science because I like building things, but I kept gravitating toward the parts where engineering meets design. I like it when something runs well *and* feels considered — a game that plays smoothly, an interface that looks like someone actually thought about it. Most of what I make lives in that overlap.
 
 ### 🧩 Some things I've built
 
@@ -24,17 +28,17 @@ Fluent in **German, English & Turkish**.
 ### 🧰 My toolbox
 
 **Code**
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Design**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
 
 ---
 
